@@ -4,7 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Papayam Shop is an online shop-based application that provides various types of chicken menus, from modern to traditional.
+
+Upcoming Features :
+- Order Basket with API
+- Search bar with API
+- Menus with API
+- Maps with API while ordering menus
+  Etc.
 
 A few resources to get you started if this is your first Flutter project:
 
